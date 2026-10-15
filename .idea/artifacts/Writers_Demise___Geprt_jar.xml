@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Writers Demise - Geprt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Writers_Demise___Geprt_jar</output-path>
+    <root id="archive" name="Writers Demise - Geprt.jar">
+      <element id="module-output" name="Writers Demise - Geprt" />
+    </root>
+  </artifact>
+</component>
